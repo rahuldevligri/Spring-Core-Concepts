@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/3 and 4. Understanding Tight and Loose Coupling with Example/Coupling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5. Beans and Dependencies management using Spring/Beans-and-Dependency-Managment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6. Resolve Ambiguity @Primary @ComponentScan Annotations/ResolveAmbiguity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7. Removing Bean conflict using @Qualifier/RemoveBeanConflict/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8. Types of Injection, Setter, Constructor and Field Injection/TypesOfInjection/src/main/java" charset="UTF-8" />
+  </component>
+</project>

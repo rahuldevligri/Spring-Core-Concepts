@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/7. Removing Bean conflict using @Qualifier/RemoveBeanConflict/pom.xml" />
+        <option value="$PROJECT_DIR$/5. Beans and Dependencies management using Spring/Beans-and-Dependency-Managment/pom.xml" />
+        <option value="$PROJECT_DIR$/6. Resolve Ambiguity @Primary @ComponentScan Annotations/ResolveAmbiguity/pom.xml" />
+        <option value="$PROJECT_DIR$/3 and 4. Understanding Tight and Loose Coupling with Example/Coupling/pom.xml" />
+        <option value="$PROJECT_DIR$/8. Types of Injection, Setter, Constructor and Field Injection/TypesOfInjection/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
